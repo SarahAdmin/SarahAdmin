@@ -1,0 +1,34 @@
+print("-------------------Student Information-----------------")
+print("Enter your Student ID:      ")
+studentid = int(input())
+print("Enter Your Name:    ")
+name = input() 
+print("Enter Your Email Address:    ")
+email = input() 
+print("Enter your Degree:    ")
+degree = input() 
+print("Enter your final grade: ")
+grade = int(input())
+
+
+print("-------Your student details ---------------")
+print("Student ID: ",studentid)
+print("Name: "+name)
+print("Degree: "+degree)
+
+if grade >= 70 and grade <= 100:
+    print("Grade: First Class")
+    print("Excellent!")
+elif grade >= 60 and grade <= 69: 
+    print("Grade: Upper Second Class")
+    print("Very Good!")
+elif grade >= 50 and grade <= 59: 
+    print("Grade: Lower Second Class")
+    print("Good!")
+elif grade >= 40 and grade <= 49:
+    print("Grade: Third Class")
+    print("OK")
+else: 
+    print("Failed")
+
+

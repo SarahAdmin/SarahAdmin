@@ -1,0 +1,25 @@
+print("----------------------Student Mobile Phone System-------------------------")
+print("Enter your name:                  ")
+name = input()
+print("Enter your address:               ")
+address = input()
+print("Enter your mobile phone number:       ")
+mobile = int(input())
+print("Enter your generation:                ")
+generation = input()
+print("How many minutes have you got?:                               ")
+minutes = int(input())
+print("How many texts have you got?:                               ")
+texts = int(input())
+
+
+totalminutes = minutes * 8 
+totaltexts = texts * 14  
+
+print("---------------------Your Information---------------------")
+print("Name:   "+name)
+print("Address:  "+address)
+print("Mobile No.  ",mobile)
+print("Type of Generation:  "+generation)
+print("You have ",totalminutes," pence for minutes.")
+print("You have ",totaltexts, " pence for texts.")

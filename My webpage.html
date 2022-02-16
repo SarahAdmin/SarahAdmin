@@ -1,0 +1,144 @@
+<!doctype HTML> 
+
+<html>
+<head>
+<title> My webpage 1 </title> 
+ </head>
+<body style="background-color:hotpink;">
+	
+<style> 
+	
+	/* style the header */
+	.header { background-color:deeppink;
+		    padding: 15px; 
+		    text-align:left; 
+		    
+		}
+	
+	/* style the topnav links */ 
+	
+	.topnav a { float:left;
+		display:block; 
+		color:aliceblue; 
+		text-align:center;
+		padding: 14px 16px; 
+		font-family:verdana; 
+		text decoration: none;
+		
+	}
+	/* change color on hover */
+	.topnav a:hover { 
+	 background-color:violet; 
+	 color:lavender;
+	}
+	 
+	h1 { color:aliceblue; 
+	     text-align:left; 
+	     font-size: 35px;
+	} 
+	
+	h2 { color:lavender;
+	     
+	
+	}
+	
+	tr { font-family: arial; 
+	     color:rebeccapurple;
+	}
+	
+	/* style the footer*/
+	.footer { 
+	background-color:deeppink;
+	padding:15px; 
+	text-align:left; 
+	color:lavender;
+	
+	}
+	
+	</style>
+
+	<div class="header">
+<h1 style="font-family:garamond;"> <i> This is my webpage </h1> </i>
+	</div>
+	
+	<div class="topnav">
+	  <a href="#"> About Me </a>
+	  <a href="#"> Products </a>
+	  <a href="#"> Sweet Treats</a>
+	  <a href="#"> Contact Me</a>
+	  </div>
+
+<img src="Rainbow_arc.png" width="500" height ="500" 
+alt= "Luminous and Vibrant Rainbow" />
+
+
+<img src="parrot_image.png" width="318"  height="462" 
+alt= "colourful parrot" />
+
+
+<h2 style="font-family:garamond;"> <i> <u> This is a Unicorn Cake Recipe Video </h2> </i> </u> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xh_Neg-Hp84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+ allowfullscreen></iframe>
+ 
+ 
+<h2 style="font-family:garamond;"> <i> <u> Listen Pippi Longstocking Theme </h2> </i> </u> 
+<audio controls> 
+<source src="Pippi_Longstocking_2.mp3" type="audio/mpeg"> 
+</audio> 
+
+
+
+<script> 
+function callme() {
+if (document.getElementById('rd1').checked) {
+document.getElementById("box").style.backgroundColor = "deeppink";
+} else if (document.getElementById('rd2').checked) {
+document.getElementById("box").style.backgroundColor = "lime";
+} else if (document.getElementById('rd3').checked) { 
+document.getElementById("box").style.backgroundColor = "purple";
+} else if (document.getElementById('rd4').checked) { 
+document.getElementById("box").style.backgroundColor = "red";
+} else if (document.getElementById('rd5').checked) {
+document.getElementById("box").style.backgroundColor = "orange";
+} else if (document.getElementById('rd6').checked) {
+document.getElementById("box").style.backgroundColor = "yellow";
+}
+}
+</script> 
+
+	<h1 style="font-family:comic sans MS;"> <u>  Pick a colour. </h1> </u>
+
+ <table>
+  <tr>
+     <td>
+      <form>
+<input type="radio" id="rd1" name="colour" value="deeppink">Pink<br /> 
+<input type="radio" id="rd2" name="colour" value="lime">Green<br /> 
+<input type="radio" id="rd3" name="colour" value="purple">Purple<br />
+<input type="radio" id="rd4" name="colour"  value="red">Red<br /> 
+<input type="radio" id="rd5" name="colour" value="orange">Orange<br /> 
+<input type="radio" id="rd6" name="colour" value="yellow">Yellow<br />
+
+<button type="button" onclick="callme()"> Change Colour </button>
+</form> 
+</td> 
+  <td> 
+     <div id="box" style="border:1px solid black;width:50px;height:50px;"> 
+	 
+	 </div> 
+	 
+	 </td> 
+	  </tr> 
+	</table> 
+
+<div class="footer">
+	
+ <p style="font-family:verdana">  Copyright &#169; 2019 Sarah Admin</p>
+	
+	</div>
+
+
+</body> 
+
+</html> 

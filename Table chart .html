@@ -1,0 +1,65 @@
+<!doctype HTML> 
+
+<html>
+<head>
+<body style="background-color:#ccf5f6;">
+	
+	<style>
+		h1 { color:purple;
+		     text-align:center; 
+			font-size:25px;
+		     }
+		
+		tr {  color:navy;
+		      font-family:verdana;
+		}
+	
+	
+	
+	</style>
+
+<title> Table Chart  </title> 
+<script> 
+function callme() {
+if (document.getElementById('rd1').checked) {
+document.getElementById("box").style.backgroundColor = "blue";
+} else if (document.getElementById('rd2').checked) {
+document.getElementById("box").style.backgroundColor = "red";
+} else if (document.getElementById('rd3').checked) { 
+document.getElementById("box").style.backgroundColor = "green";
+} else if (document.getElementById('rd4').checked) { 
+document.getElementById("box").style.backgroundColor = "yellow";
+}
+}
+</script> 
+
+	<h1 style="font-family:comic sans MS;"> <u> What is your favourite colour? </h1> </u>
+
+ <table>
+  <tr>
+     <td>
+      <form>
+<input type="radio" id="rd1" name="colour" value="blue">Blue<br /> 
+<input type="radio" id="rd2" name="colour" value="red">Red<br /> 
+<input type="radio" id="rd3" name="colour" value="green">Green<br />
+<input type="radio" id="rd4" name="colour"  value="yellow">Yellow<br /> 
+<button type="button" onclick="callme()"> Change Colour </button>
+</form> 
+</td> 
+  <td> 
+     <div id="box" style="border:1px solid black;width:50px;height:50px;"> 
+	 
+	 </div> 
+	 
+	 </td> 
+	  </tr> 
+	</table> 
+ 
+ 
+
+
+
+
+</body> 
+</head> 
+</html> 

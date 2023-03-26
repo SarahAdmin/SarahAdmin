@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SarahAdmin
-- 👀 I’m interested in Networking; Database; HTML; CSS
+- 👀 I’m interested in Networking; Database; Website; Android Development
 - 🌱 I’m currently learning Computer Science Degree at Kingston University 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

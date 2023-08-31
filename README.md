@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarahAdmin
-- 👀 I’m interested in Networking; Database; Website; Android Development
-- 🌱 I’m currently learning Computer Science Degree at Kingston University 
+- 👀 I’m interested in Android Mobile and Website Development.
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

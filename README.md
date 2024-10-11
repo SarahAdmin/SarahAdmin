@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarahAdmin
 - 👀 I’m interested in Android Mobile and Website Development.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

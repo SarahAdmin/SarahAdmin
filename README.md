@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarahAdmin
 - 👀 I’m interested in Data Engineer and SQL Developer.
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

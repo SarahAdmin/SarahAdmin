@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SarahAdmin
 - 👀 I’m interested in Data Analyst.
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python, Pandas, NumPy and Jupyter Notebook
+  
 
 <!---
 SarahAdmin/SarahAdmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

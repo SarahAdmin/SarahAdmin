@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SarahAdmin
-- 👀 I’m interested in Data Analyst.
+- 👀 I’m interested in Data Scienctist.
 - 🌱 I’m currently learning Python, Pandas, NumPy and Jupyter Notebook
   
 

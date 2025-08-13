@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SarahAdmin
-- 👀 I’m interested in Data Scienctist.
+- 👀 I’m interested in Data Scienctist/Programmer.
 - 🌱 I’m currently learning Python, Pandas, NumPy and Jupyter Notebook
+- Also Binary Representation. 
   
 
 <!---

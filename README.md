@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarahAdmin
-- 👀 I’m interested in Data Scienctist.
-- 🌱 I’m currently learning Jupyter Notebook
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently learning Jupyter Notebook, Python and Immediate SQL 
   
   
 

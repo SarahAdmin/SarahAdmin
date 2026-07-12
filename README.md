@@ -2,6 +2,9 @@
 - 👀 I’m interested in Data Analytics, Client Insights and CSAT.
 - 🌱 I’m currently learning Jupyter Notebook
   
+- Programming Languages: Python; Jupyter Notebook; Java; SQL; Hack; PHP; HTML; CSS & JavaScript
+
+  
   
   
   

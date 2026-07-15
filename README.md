@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Jupyter Notebook
   
 - Programming Languages: Python; Jupyter Notebook; Java; SQL; Hack; PHP; HTML; CSS & JavaScript
+- Libraries: Pandas; Matplotlib; NumPy
+- Most Popular language is Jupyter Notebook; I love manipulating data and creating graphs to show my projects.
 
   
   

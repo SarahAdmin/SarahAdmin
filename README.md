@@ -2,9 +2,11 @@
 - 👀 I’m interested in Data Analytics, Client Insights and CSAT.
 - 🌱 I’m currently learning Jupyter Notebook
   
-- Programming Languages: Python; Jupyter Notebook; Java; SQL; Hack; PHP; HTML; CSS & JavaScript
+- Programming Languages: Python; Jupyter Notebook; Java; SQL; Hack; PHP; HTML; C#, CSS & JavaScript
 - Libraries: Pandas; Matplotlib; NumPy
 - Most Popular language is Jupyter Notebook; I love manipulating data and creating graphs to show my projects.
+- Previous lanugage I worked on 💻: C#
+
 
   
   

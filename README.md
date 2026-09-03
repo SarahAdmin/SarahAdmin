@@ -4,6 +4,7 @@
   
 - Programming Languages: Python; Jupyter Notebook; Java; SQL; Hack; PHP; HTML; C#, CSS & JavaScript
 - Libraries: Pandas; Matplotlib; NumPy
+- New Skill: Seaborn
 - Most Popular language is Jupyter Notebook; I love manipulating data and creating graphs to show my projects.
 - Previous lanugage I worked on 💻: C#
 

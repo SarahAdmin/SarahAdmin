@@ -31,8 +31,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-- Most Popular language is Jupyter Notebook; I love manipulating data and creating graphs to show my projects.
-- Previous lanugage I worked on 💻: C#
 
 
   

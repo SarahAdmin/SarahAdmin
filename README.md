@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @SarahAdmin
-- 👀 I’m interested in Data Analytics, Client Insights and CSAT.
-- 🌱 I’m currently learning Seaborn
-  
  ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)

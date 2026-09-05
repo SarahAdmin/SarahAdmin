@@ -8,7 +8,7 @@
 - Previous lanugage I worked on 💻: C#
 
 
-  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahAdmin&layout=compact)
   
   
   

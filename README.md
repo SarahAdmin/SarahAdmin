@@ -12,11 +12,10 @@
 
 
 ### Applications
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Spreadsheets](https://img.shields.io/badge/Spreadsheets-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 
 ### Frameworks & Libraries
